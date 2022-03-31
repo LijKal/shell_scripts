@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/sym/![a-z]* /tmp/u/
+mv /tmp/sym/[[:upper:]]* /tmp/u/
